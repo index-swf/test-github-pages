@@ -3,4 +3,4 @@ node_js: stable
 install: true
 script:
 - chmod 755 ./travis.sh
-- ./travis.sh
+- "./travis.sh"
