@@ -2,4 +2,5 @@ language: node_js
 node_js: stable
 install: true
 script:
-- "./travis.sh"
+- chmod 755 ./travis.sh
+- ./travis.sh
