@@ -1,0 +1,23 @@
+{
+  "name": "test-github-pages",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "publish": "github-pages",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/index-swf/test-github-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/index-swf/test-github-pages/issues"
+  },
+  "homepage": "https://github.com/index-swf/test-github-pages#readme",
+  "devDependencies": {
+    "github-pages": "^3.0.2"
+  }
+}
